@@ -1,0 +1,3 @@
+Type this in your terminal bash to init the application create;
+--> chmod +x ./init.sh
+--> ./init.sh
